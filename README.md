@@ -2,7 +2,7 @@ This repository contains supplementary files to the following article:
 
 Efficient designs for three-sequence stepped wedge trials with continuous recruitment
 
-Richard Hooper(1), Olivier Quintin(1), Jessica Kasza(2)
+Authors: Richard Hooper(1), Olivier Quintin(1), Jessica Kasza(2)
 
 (1) Queen Mary University of London, London, UK (2) Monash University, Melbourne, Australia
 
