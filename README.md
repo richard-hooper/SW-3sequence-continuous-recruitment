@@ -33,6 +33,9 @@ The repository comprises:
    four files (author - Jessica Kasza):
    
    Scenarios.csv -- contains the parameters for each scenario;
+   
    ThreeStepSWcode.R -- functions to implement the calculation of power;
+   
    ThreeStepSWscenarios.R -- calculation of theoretical and empirical power;
+   
    ThreeStepSWloopplot.R -- generates the nested loop plot in the paper supplement.
